@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TakeNo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ApplicationID">niheH2SIhwCynAHlVJG5yPGYhjG6qaeXvB5FEuD9</string>
+    <string name="ClientKey">iL9YtVzG34IShz5hPSusDUKqU1VqvChwHtkNb8DV</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
