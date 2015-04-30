@@ -43,67 +43,9 @@
                 android:id="@+id/framelayout"
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent"
-                android:elevation="15dp"
+
                 android:background="#FFF9C4">
 
-                <LinearLayout
-                    android:orientation="vertical"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:focusable="true"
-                    android:focusableInTouchMode="true"
-                    android:layout_gravity="center">
-
-                    <LinearLayout
-                        android:orientation="horizontal"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="center_horizontal">
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="帳號:"
-                            android:textSize="30sp"
-                            android:id="@+id/textView" />
-
-                        <EditText
-                            android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            android:id="@+id/editText" />
-
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:orientation="horizontal"
-                        android:layout_width="fill_parent"
-                        android:layout_height="fill_parent">
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="密碼:"
-                            android:textSize="30sp"
-                            android:id="@+id/textView2" />
-
-                        <EditText
-                            android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            android:id="@+id/editText2" />
-                    </LinearLayout>
-
-                    <Button
-
-                        android:layout_width="80dp"
-                        android:layout_height="50dp"
-                        android:text="登入"
-                        android:id="@+id/button"
-                        android:layout_margin="10dp"
-                        android:textSize="20sp"
-                        android:background="#FBC02D"
-                        android:elevation="120dp"
-                        android:layout_gravity="right" />
-                </LinearLayout>
             </FrameLayout>
 
 
